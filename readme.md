@@ -6,3 +6,5 @@
 ### my second change
 
 #### Linear regression
+
+##### Logistic Regression
